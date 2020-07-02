@@ -1,6 +1,5 @@
 
-
-
+The new version at http://git.oschina.net/jokers
 
 ##开发环境：
 Android Studio 2.1.2
@@ -22,6 +21,7 @@ targetSdkVersion 23
     compile 'de.hdodenhof:circleimageview:1.3.0'
     compile 'com.pnikosis:materialish-progress:1.5'
     compile files('libs/volley.jar')
+
 
 
 ##界面截图:  
