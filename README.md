@@ -1,7 +1,6 @@
-# 此项目已经弃坑，感谢关注。
-#SimpleReader 简单阅读
 
-The new version at http://git.oschina.net/jokers
+
+
 
 ##开发环境：
 Android Studio 2.1.2
@@ -24,10 +23,6 @@ targetSdkVersion 23
     compile 'com.pnikosis:materialish-progress:1.5'
     compile files('libs/volley.jar')
 
-本项目界面设计参照于[http://git.oschina.net/Mr.LiaBin/my-oscgit-android](http://git.oschina.net/Mr.LiaBin/my-oscgit-android)
-
-##最新版本下载：
-http://git.oschina.net/jokers/SimpleReader/releases
 
 ##界面截图:  
 ![截图1](http://git.oschina.net/uploads/images/2016/0625/222028_6a80be30_24648.png "截图1")
